@@ -1,0 +1,7 @@
+Account             Name                Transaction Amount  
+100                 Alan Jones          27.14               
+300                 Mary Smith          62.11               
+300                 Mary Smith          83.89               
+400                 John Wayne          1000.00             
+700                 Suzy Green          80.78               
+700                 Suzy Green          1.53                

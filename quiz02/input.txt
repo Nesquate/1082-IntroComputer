@@ -1,0 +1,6 @@
+ id    lastName   firstName  gender   age   salary
+  1        Alan       Jones       M    20    27.19
+  2        Mary       Smith       F    27    14.57
+  3         Sam       Sharp       M    35    40.79
+  4        Suzy       Green       F    22    20.77
+  5        John       Wayne       M    18    18.35
